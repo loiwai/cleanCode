@@ -32,7 +32,7 @@ To ensure a smooth collaboration and maintain the quality of the project, please
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE). By contributing to this project, you agree to license your contributions under the same license.
+This project is not licensed. 
 
 ## Community
 
