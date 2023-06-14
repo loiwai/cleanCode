@@ -11,7 +11,7 @@ Clean code refers to writing code that is easy to read, understand, and maintain
 
 ## Contributing
 
-We welcome contributions from anyone interested in clean code and its importance. If you have ideas, examples, or discussions related to clean code, we encourage you to contribute. Here's how you can get started:
+I welcome contributions from anyone interested in clean code and its importance. If you have ideas, examples, or discussions related to clean code, I encourage you to contribute. Here's how you can get started:
 
 1. Fork the repository to your own GitHub account.
 2. Clone the forked repository to your local machine.
