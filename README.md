@@ -39,7 +39,7 @@ This project is not licensed.
 
 ## Community
 
-We encourage you to join our community and engage in discussions related to clean code on the [project's issue tracker](https://github.com/loiwai/cleanCode). Feel free to ask questions, share your experiences, or request specific topics for discussion.
+I encourage you to join this project and engage in discussions related to clean code on the [project's issue tracker](https://github.com/loiwai/cleanCode). Feel free to ask questions, share your experiences, or request specific topics for discussion.
 
 Let's work together to improve our coding practices and create a cleaner codebase!
 
