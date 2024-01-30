@@ -1,8 +1,7 @@
 # Clean Code Project
 
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1682686581220-689c34afb6ef?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDF8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
-    " alt="Header Image">
+  <img src="./images/ai-site-helping-with-software-production.jpg" alt="Header Image">
 </p>
 Welcome to the Clean Code Project! This project aims to gather ideas, discussions, and examples related to clean code practices and what it means to have clean, good, or bad code.
 
